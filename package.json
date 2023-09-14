@@ -53,5 +53,6 @@
   },
   "devDependencies": {
     "gh-pages": "^6.0.0"
-  }
+  },
+  "homepage": "http://BaptLab.github.io/P14_HRnet_React"
 }
